@@ -1,0 +1,30 @@
+
+Genel bilgilendirme:
+Proje collab üzerinden python ile yazılmıştı dosya erişimi metin@kaizentech.net adresine verilmiştir dosyada kod tarafından üretilmiş bazı outputlar vardır.
+Diğer kişilerin erişimi için 
+https://colab.research.google.com/drive/1mNoDXDlkHroEuFfbw4VS8Fp_LkRmrwco?usp=sharing
+Adresi üzerinden izin istenebilir.
+
+
+Gereksinimler:
+
+kod istenen sonuca iki yoldan ulaşabilir bir tanesi Google Cloud vison kullanarak diğeri cv2 ve pytierect gibi kütüphaneler kullanarak resmi preprocess edip image to text fonksiyonunu kullanır birini kullanım için fotoğrafın internete yüklenip url halinde yüklenmesi gerekir diğer kullanım yöntemi için collage upload edilmelir collar üzerinden tek dosya yüklenerek çalıştırılabilir
+
+
+Dosya içeriği:
+
+Fis.png yüklenen resim
+
+
+shadows_out.png resimdeki gölge ve kırışıklıklar kaldırılmış hali 
+
+Gamma_corrected.png gama ayarları yapılmış resim 
+
+Final.png resim OCR için benim bulabildiğim en optimum hale getirilmiş hali 
+
+Locations.png resimdeki yazı kutularının lokasyonlarını bulan algoritma sonucu oluşturulmuş resim
+
+Kaizentestcasesoru2.ipnb kodun collar dosyası hali
+
+
+
