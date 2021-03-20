@@ -8,8 +8,9 @@ Adresi üzerinden izin istenebilir.
 
 Gereksinimler:
 
-kod istenen sonuca iki yoldan ulaşabilir bir tanesi Google Cloud vison kullanarak diğeri cv2 ve pytierect gibi kütüphaneler kullanarak resmi preprocess edip image to text fonksiyonunu kullanır birini kullanım için fotoğrafın internete yüklenip url halinde yüklenmesi gerekir diğer kullanım yöntemi için collage upload edilmelir collar üzerinden tek dosya yüklenerek çalıştırılabilir
-
+  İlk yötem için GCP (okanskaya@gmail.com adresinden ulaşırsanız API keyini tarafınıza ulaştırabilirim)
+  
+  İkinci yöntem için gerekli her kütüphane collab üzerinde kurulmuştur 
 
 Dosya içeriği:
 
